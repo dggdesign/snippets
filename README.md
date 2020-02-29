@@ -42,3 +42,6 @@ Code Snippets - https://es.wordpress.org/plugins/code-snippets/
 ### Generar Custom Post Types
 Generate WP - https://generatewp.com/post-type/
 
+### Generar Taxonomias
+Generate WP - https://generatewp.com/taxonomy/
+
