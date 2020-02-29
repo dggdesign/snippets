@@ -45,3 +45,5 @@ Generate WP - https://generatewp.com/post-type/
 ### Generar Taxonomias
 Generate WP - https://generatewp.com/taxonomy/
 
+### Crear Ubicación de Menú
+Generate WP - https://generatewp.com/nav-menus/
