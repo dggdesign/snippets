@@ -1,7 +1,3 @@
-# snippets
-Code snippets by dggdesign
-
-
 # WordPress Plugins
 
 ## Gestionar roles de Usuario
